@@ -3,7 +3,6 @@
 ## 目录
 
 * [预览图](#预览图)
-[test](#tesss)
 * [各部分详情](#各部分详情)
     * [主页 Home](#主页-home)
     * [归档页 Archives](#归档页-archives)
@@ -33,8 +32,6 @@
 * [捐助 donate](#捐助-donate)
 * [Update Log](#update-log)
 * [License](#license)
-
-## test
 
 ## 预览图
 
