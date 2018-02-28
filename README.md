@@ -1,5 +1,3 @@
-# 关于这个简洁明快的博客主题 🤘🤘🤘
-
 ## 目录
 
 * [预览图](#预览图)
@@ -22,7 +20,6 @@
     * [3. 修改参数](#3-修改参数)
         * [基本信息](#基本信息)
         * [链接信息](#链接信息)
-        * [评论信息](#评论信息)
         * [统计信息](#统计信息)
     * [4. 写文章](#4-写文章)
     * [5. 本地运行](#5-本地运行)
@@ -70,18 +67,7 @@
 对个人和对本站的介绍，使用`markdown`写的。
 
 ### 评论
-
-支持 [多说评论](http://duoshuo.com/) 和 [disqus](https://disqus.com/) 评论。
-
-只需要在 `_config.yml` 修改相应的配置`short_name`即可，如下：
-
-```yml
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #xxx
-disqus_shortname: xxx
-```
+使用畅言
 
 ### 目录 Contents
 
@@ -186,9 +172,6 @@ dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
 ```
-
-#### 评论信息
-使用畅言
 
 #### 统计信息
 
